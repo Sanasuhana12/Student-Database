@@ -1,5 +1,5 @@
 # Student Database
-##OBJECTIVE:
+## OBJECTIVE:
 ------------
 This is a menu-driven Student Database System in C using Singly Linked List (SLL), File Handling, and Dynamic Memory Allocation (DMA). The program allows managing student records with features like adding, editing, deleting, searching, saving, and reverse displaying the list of students.
 
