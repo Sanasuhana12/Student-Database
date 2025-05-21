@@ -1,2 +1,1 @@
-# Banking-system
-c language
+# Student Database
